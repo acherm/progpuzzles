@@ -2,7 +2,7 @@
 
 # for i in {40..64}
 # not giving the solution!
-for i in {40..63}
+for i in {39..63}
 do
     # ./node_modules/.bin/svgexport chess-try$i.svg chess-try$i.png
     # convert -density 1200 -resize 200x200 chess-try$i.svg chess-try$i.png
