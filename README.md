@@ -1,6 +1,6 @@
 Supporting material for "Towards programming puzzle spaces"
 
-Jupyter notebooks (Python scripts)
+Jupyter notebooks (Python scripts and explanations), see [ChessPuzzle.ipynb](ChessPuzzle.ipynb) for starting!
 
 Talk given at DiverSE coffee
 
