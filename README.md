@@ -2,7 +2,7 @@
 
 Jupyter notebooks (Python scripts and explanations), see [ChessPuzzle.ipynb](ChessPuzzle.ipynb) for starting!
 
-A talk has been given at DiverSE coffee (available on Youtube: https://youtu.be/oHEJJv7vUDw) 
+A talk has been given at DiverSE coffee (available on Youtube: https://youtu.be/oHEJJv7vUDw), see also blog post: http://blog.mathieuacher.com/ProgrammingChessPuzzles/
 
 Contributions: 
  * Luc Lesoil, see [notebook](https://github.com/acherm/progpuzzles/blob/master/Chess%20-%204%20queens%201%20bishop.ipynb)
