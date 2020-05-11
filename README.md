@@ -1,8 +1,12 @@
-Supporting material for "Towards programming puzzle spaces"
+# Supporting material for "Towards programming puzzle spaces"
 
 Jupyter notebooks (Python scripts and explanations), see [ChessPuzzle.ipynb](ChessPuzzle.ipynb) for starting!
 
-Talk given at DiverSE coffee
+A talk has been given at DiverSE coffee (available on Youtube: https://youtu.be/oHEJJv7vUDw) 
+
+Contributions: 
+ * Luc Lesoil, see [notebook](https://github.com/acherm/progpuzzles/blob/master/Chess%20-%204%20queens%201%20bishop.ipynb)
+ * Philippe Brochet 
 
 Abstract:
 > I want to tell a story about computational thinking, (artificial) intelligence, and the joy of programming.
